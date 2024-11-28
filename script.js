@@ -2,8 +2,6 @@
 function response(answer) {
     if (answer === 'yes') {
         alert('Yay! Can\'t wait to go out with you!\n But if you don\'t want to, that\'s okay :( ');
-    } else {
-        alert('Aww, maybe next time!');
     }
 }
 
