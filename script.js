@@ -1,7 +1,7 @@
 // Function to handle the response when a button is clicked
 function response(answer) {
     if (answer === 'yes') {
-        alert('Yay! Can\'t wait to go out with you!\n But if you don\'t want to, that\'s okay :( ');
+        alert('I\'m sorry for forcing you to say yes\n But if you don\'t want to, that\'s okay :( ');
     }
 }
 
